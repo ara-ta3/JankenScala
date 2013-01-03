@@ -1,6 +1,6 @@
 package janken
 
 class Hand(var hand:Int){
-  val m 	= Map[Int,String](0->"グー",1->"チョキ",2->"パー")
+  val m 	= Map[Int,String](0->"繧ｰ繝ｼ",1->"繝√Ι繧ｭ",2->"繝代�ｼ")
   var name	= m.get(hand)
 }

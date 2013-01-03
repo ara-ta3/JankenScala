@@ -8,7 +8,7 @@ class Stage (var p1:Player,var p2:Player){
 	}
 	
 	def call():String	= {
-	  return judge() + "‚ÌŸ‚¿I"
+	  return judge() + "ã®å‹ã¡"
 	}
 	
 
